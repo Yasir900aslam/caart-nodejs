@@ -1,0 +1,24 @@
+{
+  "name": "caartdashboard",
+  "description": "caart Dashboard inspired by and based on the Vercel™ Design System.",
+  "version": "0.2.0",
+  "author": "Saad, Essa, Ovais, Akif",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@geist-ui/react": "^v2.2.0-rc.0",
+    "axios": "^0.21.1",
+    "next": "^10.2.0",
+    "prettier": "^2.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-feather": "^2.0.8"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "typescript": "^4.2.4"
+  }
+}
